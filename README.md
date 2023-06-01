@@ -1,92 +1,71 @@
 <a name="readme-top"></a>
 
-<!--
-HOW TO USE:
-This is an example of how you may give instructions on setting up your project locally.
+<!-- TABLE OF CONTENTS -->
 
-Modify this file to match your project and remove sections that don't apply.
+# 📗 Table of Contents
 
-REQUIRED SECTIONS:
-- Table of Contents
-- About the Project
-  - Built With
-  - Live Demo
-- Getting Started
-- Authors
-- Future Features
-- Contributing
-- Show your support
-- Acknowledgements
-- License
+- [📖 About the Project](#about-project)
+  - [🛠 Built With](#built-with)
+    - [Tech Stack](#tech-stack)
+    - [Key Features](#key-features)
+  - [💻 Getting Started](#getting-started)
+  - [Setup](#setup)
+  - [Prerequisites](#prerequisites)
+    - [Usage](#usage)
+  - [👥 Authors](#authors)
+- [🔭 Future Features](#future-features)
+- [🤝 Contributing](#contributing)
+- [⭐️ Show your support](#support)
+- [🙏 Acknowledgements](#acknowledgements)
+- [📝 License](#license)
 
-OPTIONAL SECTIONS:
-- FAQ
+<!-- PROJECT DESCRIPTION -->
 
-After you're finished please remove all the comments and instructions!
--->
+# 📖 [Hello Microverse] <a name="about-project"></a>
 
-<div align="center">
-  <!-- You are encouraged to replace this logo with your own! Otherwise you can also remove it. -->
-  
-  <br/>
+**[Hello Microverse]** is a project that shows how to set up linter configurations, and beginner html file.
 
-  <h3><b>Hello Microverse!</b></h3>
-
-</div>
-
-
-# 📖 [Hello Microverse!] <a name="about-project"></a>
-
-
-**["Hello Microverse"]**  is the first project that microverse students must complete to demonstrate their understanding of the best practices to buid their work in a professional way.
-
+## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
 
-
 <details>
-  <summary>Client</summary>
+  <summary>HTML5</summary>
   <ul>
-    <li><a href="index.html">html</a></li>
-    <li><a href="style.css">css</a></li>
+    <li><a href="https://www.w3schools.com/html/">HTML5</a></li>
   </ul>
 </details>
 
+<details>
+  <summary>CSS3</summary>
+  <ul>
+    <li><a href="https://www.w3schools.com/css/">CSS3</a></li>
+  </ul>
+</details>
 
 <!-- Features -->
 
 ### Key Features <a name="key-features"></a>
 
-
-- **Creation of a repository for the "Hello Microverse" project**
-- **add several files to the repository such as html, css, readme, etc.**
-- **Commit and push the changes**
+- **[Displays Hello Microverse]** 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+<!-- GETTING STARTED -->
 
 ## 💻 Getting Started <a name="getting-started"></a>
-
 
 To get a local copy up and running, follow these steps.
 
 ### Prerequisites
 
-In order to run this project i need to install: the chrome browser, git and github, and VScode editor
+In order to run this project you need:
 
-<!--
-Example command:
-
-```sh
- gem install rails
-```
- -->
+ 1.Code editor example; visual studio code
 
 ### Setup
 
-Clone this repository to my local machine: cd github
-git clone git@github.com:jerymey/Hello-Microverse.git
-cd Hello-Microverse
+Clone this repository to your desired folder:
 
 <!--
 Example commands:
@@ -97,50 +76,64 @@ Example commands:
 ```
 --->
 
-### Install
-
-Install this project with: .github/workflows  ;  .gitignore
-node_modules/ ; Linters/Lighthouse ; npm init -y ; npm install --save-dev hint@7.x ; npx hint ; npm install --save-dev stylelint@13.x stylelint-scss@3.x stylelint-config-standard@21.x stylelint-csstree-validator@1.x  ; npx stylelint "**/*.{css,scss}"
-
-<!--
-Example command:
-
-```sh
-  cd my-project
-  gem install
-```
---->
-
 ### Usage
 
-To run the project, just copy and paste the link of the index.html file in the browser
+To run the project, click on "Go Live" on the bottom of the code editor.
 
 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- AUTHORS -->
 
 ## 👥 Authors <a name="authors"></a>
 
-
-👤 **Jery Mey**
+👤 **Author1**
 
 - GitHub: [@githubhandle](https://github.com/jerymey)
-
+- Twitter: [@twitterhandle](https://twitter.com/jerymey4)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+<!-- FUTURE FEATURES -->
 
+## 🔭 Future Features <a name="future-features"></a>
+
+- [ ] **[Header section]**
+- [ ] **[Portfolio section]**
+- [ ] **[About-myself section]**
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- CONTRIBUTING -->
+
+## 🤝 Contributing <a name="contributing"></a>
+
+Contributions, issues, and feature requests are welcome!
+
+Feel free to check the [issues page](../../issues/).
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- SUPPORT -->
+
+## ⭐️ Show your support <a name="support"></a>
+
+If you like this project, please follow me to learn more.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- ACKNOWLEDGEMENTS -->
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-
-I would like to thank The Microverse team for this brilliant opportunity that can allows us to be international professional developpers
+I would like to thank microverse for giving me this chance to learn how to code.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
+<!-- LICENSE -->
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](LICENCE.txt) licensed.
-
+This project is [MIT](./LICENSE) licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
