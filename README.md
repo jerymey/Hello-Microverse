@@ -20,7 +20,8 @@
 To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
-**Git Installed**
+
+- Git Installed
 
 ### Setup
 - Open a terminal
