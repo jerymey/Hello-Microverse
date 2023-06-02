@@ -8,10 +8,13 @@
   - [🛠 Built With](#built-with)
     - [Tech Stack](#tech-stack)
     - [Key Features](#key-features)
-  - [💻 Getting Started](#getting-started)
+- [💻 Getting Started](#getting-started)
   - [Setup](#setup)
   - [Prerequisites](#prerequisites)
-    - [Usage](#usage)
+  - [Install](#install)
+  - [Usage](#usage)
+  - [Run tests](#run-tests)
+  - [Deployment](#deployment)
   - [👥 Authors](#authors)
 - [🔭 Future Features](#future-features)
 - [🤝 Contributing](#contributing)
@@ -61,7 +64,8 @@ To get a local copy up and running, follow these steps.
 
 In order to run this project you need:
 
- 1.Code editor example; visual studio code
+ 1. Code editor , for example Visual Studio Code
+ 2. Git installed on your pc. 
 
 ### Setup
 
@@ -76,10 +80,33 @@ Example commands:
 ```
 --->
 
+### Install
+
+Install this project with git commands such as git clone.
+
+
+
 ### Usage
 
-To run the project, click on "Go Live" on the bottom of the code editor.
+To run the project, click on  "Go live" at the bottom left of your VS Code.
 
+
+
+### Run tests
+
+To run tests, right click on index.html to view your page on web browser.
+
+### Deployment
+
+You can deploy this project using:
+
+<!--
+Example:
+
+```sh
+
+```
+ -->
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
