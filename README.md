@@ -25,6 +25,15 @@
 - [📝 License](#license)
 
 
+# 📖 [Hello Microverse!] <a name="about-project"></a>
+
+**[Hello Microverse]** is The Day 2 of the Microverse Program which includes creating linters, branching, monitoring github workflow and editing the readme file.
+
+## 🛠 Built With <a name="built-with"></a>
+
+- HTML
+- CSS
+
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
